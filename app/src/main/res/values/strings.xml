@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sharedPreferencesDemo</string>
+    <string name="snakeflake">Snakeflake</string>
+    <string name="save">Save</string>
+</resources>
